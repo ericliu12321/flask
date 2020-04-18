@@ -13,6 +13,7 @@ work simple_flask_app
 deactivate
 
 ### PS
+Get-ExcuctionPolicy
 set-executionpolicy remotesigned
 ###
 
