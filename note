@@ -12,4 +12,6 @@ pip install Flask==1.0.2
 work simple_flask_app
 deactivate
 
+(venv) PS C:\opt\simple_flask_app> $env:FLASK_APP="hello.py"
+(venv) PS C:\opt\simple_flask_app> flask run
 
